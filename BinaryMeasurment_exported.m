@@ -35,8 +35,8 @@ classdef BinaryMeasurment_exported < matlab.apps.AppBase
         function startupFcn(app)
             global image1
             
-            image1_R = image1(:,:,1);
             image1_G = image1(:,:,2);
+            image1_R = image1(:,:,1);
             image1_B = image1(:,:,3);
             
              histr = histogram(app.UIRED,image1_R, 'FaceColor', [1 0 0], 'EdgeColor', "none", 'Visible', "off");
