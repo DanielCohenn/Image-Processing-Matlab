@@ -10,13 +10,12 @@ we use another phase estimation technique using gabor filter.
 
 Lastly we take our estimated length and the closest estimated phase between 
 
-the two techniques to the original phase parameter
-
-and deblur the image using wiener filter.
+the two techniques to the original phase parameter and deblur the image using wiener filter.
 
 GUI inteface example and explenetaion:
 
 ![](readme_images/image.png)
+
 
 # Binary Image Convertor
 
