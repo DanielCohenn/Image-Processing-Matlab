@@ -2,7 +2,9 @@
 
 A Matlab GUI co - developed with another student as part of a Image Processing course assignment.
 
-In this GUI we are uploading an image from the 
+In this GUI we are uploading an image and applying a blurring filter with phase and length parameters.
+
+Afterwards we estimate the length and the phase using the radon tranform and then we use another phase estimation technique using gabor filter. 
 
 GUI inteface example and explenetaion:
 
