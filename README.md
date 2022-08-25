@@ -2,6 +2,8 @@
 
 A Matlab GUI co - developed with another student as part of a Image Processing course assignment.
 
+In this GUI we are uploading an image from the 
+
 GUI inteface example and explenetaion:
 
 ![](readme_images/image.png)
