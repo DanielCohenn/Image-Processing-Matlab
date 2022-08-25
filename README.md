@@ -8,7 +8,9 @@ Afterwards we estimate the length and the phase using the radon tranform and the
 
 we use another phase estimation technique using gabor filter. 
 
-Lastly we take the our estimated length and the closest estimated phase to the original phase parameter
+Lastly we take our estimated length and the closest estimated phase between 
+
+the two techniques to the original phase parameter
 
 and deblur the image using wiener filter.
 
