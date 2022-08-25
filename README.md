@@ -4,7 +4,7 @@ A Matlab GUI co - developed with another student as part of a Image Processing c
 
 GUI inteface example and explenetaion:
 
-
+![](readme_images/image.png)
 
 # Binary Image Convertor
 
